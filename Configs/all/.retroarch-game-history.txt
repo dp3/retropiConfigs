@@ -1,0 +1,75 @@
+/home/pi/RetroPie/roms/snes/NBA Jam (U) (V1.1).smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Mighty Morphin Power Rangers (U).smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Contra III - The Alien Wars (U) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Battletoads & Double Dragon - The Ultimate Team (U) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Super Mario Kart (U) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Zombies Ate My Neighbors (U) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Lufia II - Rise of the Sinistrals (U).smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/psx/legends.img
+/opt/retropie/emulatorcores/pcsx_rearmed/libretro.so
+PCSX-ReARMed
+/home/pi/RetroPie/roms/megadrive/Castlevania - Bloodlines (U) [!].bin
+/opt/retropie/emulatorcores/picodrive/picodrive_libretro.so
+PicoDrive
+/home/pi/RetroPie/roms/snes/Donkey Kong Country (U) (V1.2) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Earthworm Jim (U).smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Mega Man X (U) (V1.1).smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Super Castlevania IV (U) [!].smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/megadrive/EA Hockey # SMD.SMD
+/opt/retropie/emulatorcores/picodrive/picodrive_libretro.so
+PicoDrive
+/home/pi/RetroPie/roms/atari2600/Galaga.bin
+/opt/retropie/emulatorcores/stella-libretro/stella_libretro.so
+Stella
+/home/pi/RetroPie/roms/nes/Super Pitfall (U).nes
+/opt/retropie/emulatorcores/fceu-next/fceumm-code/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/pcengine/Bomberman '94 (J).pce
+/opt/retropie/emulatorcores/mednafen-pce-libretro/libretro.so
+Mednafen PCE FAST
+/home/pi/RetroPie/roms/ports/doom/doom1.wad
+/opt/retropie/emulatorcores/libretro-prboom/prboom_libretro.so
+prboom
+/opt/retropie/emulatorcores/nxengine-libretro/datafiles/Doukutsu.exe
+/opt/retropie/emulatorcores/nxengine-libretro/nxengine_libretro.so
+NXEngine
+/home/pi/RetroPie/roms/mastersystem/Alex Kidd in Miracle World.sms
+/opt/retropie/emulatorcores/picodrive/picodrive_libretro.so
+PicoDrive
+/home/pi/RetroPie/roms/snes/Aero Fighters.smc
+/opt/retropie/emulatorcores/pocketsnes-libretro/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/gbc/Metal Gear Solid.gbc
+/opt/retropie/emulatorcores/gambatte-libretro/libgambatte/gambatte_libretro.so
+gambatte
+/home/pi/RetroPie/roms/gb/Tetris.gb
+/opt/retropie/emulatorcores/gambatte-libretro/libgambatte/gambatte_libretro.so
+gambatte
